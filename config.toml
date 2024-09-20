@@ -1,0 +1,67 @@
+base_url = "https://zozor.es"
+theme = "tabi"
+title = "~/zozores"
+author = "Thiago (Zozô) Ozores"
+default_language = "pt"
+generate_feeds = true
+
+compile_sass = true
+build_search_index = true
+
+taxonomies = [{name = "tags", feed = true}]
+
+[search]
+index_format = "elasticlunr_json" # Or the less efficient "elasticlunr_javascript".
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "css"
+
+[languages.en]
+title = "~/zozores"
+generate_feeds = true
+taxonomies = [{name = "tags", feed = true}]
+
+[extra]
+skin = "mint-v2"
+override_serif_with_sans = true
+tag_sorting = "frequency"
+remote_repository_url = "https://github.com/zozores/zozores-home"
+remote_repository_git_platform = "auto"
+remote_repository_branch = "main"
+show_remote_changes = true
+show_remote_source = true
+copyright = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR O conteúdo deste site é disponibilizado sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)"
+copyright_translations.en = "$TITLE © $CURRENT_YEAR $AUTHOR $SEPARATOR The content in this website is available under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license."
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "archive", url = "archive", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+]
+socials = [
+    { name = "mastodon", url = "https://bolha.us/@zozorest", icon = "mastodon" },
+    { name = "bluesky", url = "https://bsky.app/profile/zozores.bsky.social", icon = "bluesky" },
+    { name = "threads", url = "https://threads.net/zozorest", icon = "threads" },
+    { name = "instagram", url = "https://instagram.com/zozorest", icon = "instagram" },
+    { name = "pixelfed", url = "https://pixelfed.social/zozores", icon = "pixelfed" },
+    { name = "codeberg", url = "https://codeberg.org/zozores", icon = "codeberg" },
+    { name = "github", url = "https://github.com/zozores", icon = "github" },
+    { name = "gitlab", url = "https://gitlab.com/zozores", icon = "gitlab" },
+    { name = "dev.to", url = "https://dev.to/zozores", icon = "dev" },
+    { name = "hashnode", url = "https://hashnode.com/@zozores", icon = "hashnode" },
+    { name = "telegram", url = "https://t.me/zozores", icon = "telegram" },
+]
+footer_menu = [
+    {url = "about", name = "about", trailing_slash = true},
+    {url = "privacy", name = "privacy", trailing_slash = true},
+    {url = "https://zozores.goatcounter.com", name = "site_statistics", trailing_slash = true},
+    {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
+]
+
+[extra.analytics]
+service = "goatcounter"
+id = "zozores"
