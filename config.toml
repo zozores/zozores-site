@@ -4,7 +4,7 @@ title = "~/zozores"
 author = "Thiago (Zozô) Ozores"
 default_language = "pt"
 generate_feeds = true
-
+minify_html = true
 compile_sass = true
 build_search_index = true
 
@@ -26,11 +26,26 @@ title = "~/zozores"
 generate_feeds = true
 taxonomies = [{name = "tags", feed = true}]
 
+[link_checker]
+internal_level = "warn"
+skip_prefixes = [
+    "https://www.vultr.com/",
+]
+skip_anchor_prefixes = [
+    "https://github.com/",
+]
+
 [extra]
 skin = "mint-v2"
+favicon_emoji = "🧑‍💻️"
+separator = "•"
+post_listing_date = "updated"
+show_date = true
+show_reading_time = true
+copy_button = true
 override_serif_with_sans = true
 tag_sorting = "frequency"
-remote_repository_url = "https://github.com/zozores/zozores-home"
+remote_repository_url = "https://github.com/zozores/zozores-site"
 remote_repository_git_platform = "auto"
 remote_repository_branch = "main"
 show_remote_changes = true
@@ -61,7 +76,30 @@ footer_menu = [
     {url = "https://zozores.goatcounter.com", name = "site_statistics", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
+allowed_domains = [
+    { directive = "font-src", domains = ["'self'", "data:"] },
+    { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
+    { directive = "media-src", domains = ["'self'", "https://cdn.jsdelivr.net/"] },
+    { directive = "script-src", domains = ["'self'"] },
+    { directive = "style-src", domains = ["'self'"] },
+    { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
+]
 
 [extra.analytics]
 service = "goatcounter"
 id = "zozores"
+
+[extra.giscus]
+enabled_for_all_posts = false
+automatic_loading = true
+repo = "zozores/zozores-site"
+repo_id = "R_kgDOM0rf1A"
+category_id = "DIC_kwDOM0rf1M4CipXz"
+mapping = "title" 
+strict_title_matching = 1
+enable_reactions = 1
+comment_box_above_comments = false
+light_theme = "noborder_light"
+dark_theme = "noborder_dark"
+lang = ""
+lazy_loading = true
