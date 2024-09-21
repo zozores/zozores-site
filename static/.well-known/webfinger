@@ -1,0 +1,10 @@
+{
+    "subject": "acct:site@zozor.es",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://zozor.es/actor"
+        }
+    ]
+}

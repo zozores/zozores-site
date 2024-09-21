@@ -1,0 +1,23 @@
+/.well-known/webfinger
+    Content-Type: "application/jrd+json"
+
+/actor.jsonld
+    Content-Type: "application/activity+json"
+
+/followers
+    Content-Type: "application/activity+json"
+
+/outbox
+    Content-Type: "application/activity+json"
+
+/note/*
+    Content-Type: "application/activity+json"
+
+/create/*
+    Content-Type: "application/activity+json"
+
+/likes/*
+    Content-Type: "application/activity+json"
+
+/replies/*
+    Content-Type: "application/activity+json"
