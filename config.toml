@@ -94,6 +94,7 @@ enabled_for_all_posts = false
 automatic_loading = true
 repo = "zozores/zozores-site"
 repo_id = "R_kgDOM0rf1A"
+category = "General"
 category_id = "DIC_kwDOM0rf1M4CipXz"
 mapping = "title" 
 strict_title_matching = 1
