@@ -1,7 +1,7 @@
 +++
 paginate_by = 5
 title = "Blog"
-sort_by = "updated"
+sort_by = "update_date"
 template = "section.html"
 insert_anchor_links = "left"
 

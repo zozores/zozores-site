@@ -1,6 +1,6 @@
 +++
 title = "Posts recentes"
-sort_by = "updated"
+sort_by = "update_date"
 template = "section.html"
 
 [extra]
