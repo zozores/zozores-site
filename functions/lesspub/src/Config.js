@@ -4,7 +4,7 @@
 var Js_dict = require("rescript/lib/js/js_dict.js");
 var Js_string = require("rescript/lib/js/js_string.js");
 var Belt_Option = require("rescript/lib/js/belt_Option.js");
-var ActorJson = require("../../../../actor.json");
+var ActorJson = require("../../../actor.json");
 
 var baseURL = Belt_Option.getExn(Js_dict.get(process.env, "AP_BASE_URL"));
 
