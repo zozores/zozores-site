@@ -12,4 +12,4 @@ Seja bem-vindo a minha 9999<sup>a</sup> tentativa de ter um lugar para publicar 
 
 Aqui você encontrará ~~receitas de como fazer uma Dinamite Pangaláctica~~ notas, artigos e devaneios aleatoriamente organizados sobre Software Livre e Código Aberto, Tecnologia da Informação e Ciência da Computação, a Vida, o Universo e Tudo Mais.<br/>
 
-<mark>As opiniões emitidas aqui são de minha responsabilidade e não estão vinculadas a nenhuma instituição.</mark>oo
+<mark>As opiniões emitidas aqui são de minha responsabilidade e não estão vinculadas a nenhuma instituição.</mark>
