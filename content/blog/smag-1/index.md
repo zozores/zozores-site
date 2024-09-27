@@ -1,6 +1,7 @@
 +++
 title = "Analista Mestre Supremo das Galáxias #1"
 date = 2024-09-26
+update_date = 2024-09-27
 description = "Conheça o Analista Mestre Supremo das Galáxias, o senhor de todos os mirrors de informação e conhecimento do multiverso!"
 
 [taxonomies]
@@ -28,7 +29,7 @@ Eis que, em um dos assuntos, que eu não lembro qual era, o Analista Mestre Supr
 
 E assim ele começa a contar a história dele, que ele teria viajado para a fazenda de um amigo e que era uma fazenda de eucaliptos e, se me lembro bem, era no interior de São Paulo, segundo ele contando.
 
-Este amigo confidenciara para o Mestre (eu vou abreviar daqui para frente), que havia comprado uns tratores novos para a fazenda no intuito de usá-los para ajudar na derrubada dos eucaliptos que os funcionários da fazenda não estavam conseguindo usar estes equipamentos novos, mesmos os funcionários mais experientes na condução de tratores (desconheço completamente se tratores são os equipamentos indicados para este tipo de serviço, só estou contando o causo conforme foi dito por ele)
+Este amigo confidenciara para o Mestre (eu vou abreviar daqui para frente), que havia comprado uns tratores novos para a fazenda no intuito de usá-los para ajudar na derrubada dos eucaliptos que os funcionários da fazenda não estavam conseguindo usar, mesmos os funcionários mais experientes na condução de tratores (desconheço completamente se tratores são os equipamentos indicados para este tipo de serviço, só estou contando o causo conforme foi dito por ele)
 
 Eis que o Mestre vira para o amigo e diz:<br/> - Cadê o trator? Eu quero dirigir ele, não deve ser difícil (se bem que eu não lembro se foi exatamente isso que ele disse, mas foi algo dito com uma humildade sem igual).
 
@@ -39,11 +40,7 @@ Ele continua a história dizendo que conseguiu dirigir e operar o trator de prim
 Então, ele pergunta ao amigo quais eram os eucaliptos que tinham que ser derrubados e o amigo aponta para a área onde eles estavam.
 
 Domando o trator como um cavaleiro doma um cavalo, ele parte para cima dos eucaliptos (licença poética, porque eu não lembro exatamente como foi dito, mas não foi muito diferente disso) e ele faz uma manobra inédita com o trator que deixou os funcionários da fazenda novamente bestificados e a aplaudir ele e até batizaram a manobra com o nome dele e com isso ele consegue derrubar alguns eucaliptos (agora não é liberdade poética, ele realmente falou isso)
-
-Após este feito, ele junta todos os funcionários da fazenda e repassa o conhecimento a eles de como dirigir aquele trator. Os funcionários agradecem e terminam de derrubar os outros eucaliptos.
-
-E agora voltamos para o refeitório do escritório, no meio da história, havia sentado à mesa um dos nossos colegas que como eu, não consegue compreender a vastidão da sabedoria do Mestre, alguns ficam completamente desorientados, desnorteados, outros perdem a paciência, por não conseguir tal discernimento e foi o que aconteceu com o nosso colega, que levantou-se da mesa e falou:<br/> - NÃO SEI COMO VOCÊS AGUENTAM! - E foi embora do refeitório.
-
+estes equipamentos novos
 Depois, muitos o acompanham, até porque já haviam finalizado o seu almoço e estava na hora de voltar ao trabalho.
 
 ## Epílogo
