@@ -54,4 +54,4 @@ Talvez no futuro eu volte com outros causos dele, com algum que esteja diretamen
 
 E eu tenho certeza que depois dessa leitura, você relembrou de algum Mestre que trabalhou com você e que é desse tipo que tudo sabe ou que é amigo do cara que sabe, um cara que simplesmente não sabe falar "não sei" e quer estar sempre acima dos outros.
 
-ENQUANTO ISSO, CONTINUE NA SINTONIA DO BLOG PARA OUTROS CAUSOS OU ASSUNTOS MAIS RELEVANTES, EU JURO QUE TERÁ.
+ENQUANTO ISSO, CONTINUE NA SINTONIA DO BLOG PARA ASSUNTOS MAIS RELEVANTES, EU JURO QUE TERÁ.

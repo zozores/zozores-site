@@ -54,4 +54,4 @@ Maybe in the future I'll come back with other stories of his, with some that are
 
 And I'm sure that after reading this, you'll remember some Master who worked with you and who is either a know-it-all or a friend of the know-it-all, a guy who simply can't say “I don't know” and always wants to be above others.
 
-IN THE MEANTIME, KEEP TUNING IN TO THE BLOG FOR OTHER STORIES OR MORE RELEVANT SUBJECTS, I SWEAR THERE WILL BE.
+IN THE MEANTIME, KEEP TUNING IN TO THE BLOG FOR RELEVANT SUBJECTS, I SWEAR THERE WILL BE.
