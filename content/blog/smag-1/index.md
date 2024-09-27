@@ -39,7 +39,7 @@ Ele continua a história dizendo que conseguiu dirigir e operar o trator de prim
 
 Então, ele pergunta ao amigo quais eram os eucaliptos que tinham que ser derrubados e o amigo aponta para a área onde eles estavam.
 
-Domando o trator como um cavaleiro doma um cavalo, ele parte para cima dos eucaliptos (licença poética, porque eu não lembro exatamente como foi dito, mas não foi muito diferente disso) e ele faz uma manobra inédita com o trator que deixou os funcionários da fazenda novamente bestificados e a aplaudir ele e até batizaram a manobra com o nome dele e com isso ele consegue derrubar alguns eucaliptos (agora não é liberdade poética, ele realmente falou isso)
+Domando o trator como um cavaleiro doma um cavalo, ele parte para cima dos eucaliptos (licença poética, porque eu não lembro exatamente como foi dito, mas não foi muito diferente disso) e ele faz uma manobra inédita com o trator que deixou os funcionários da fazenda novamente bestificados e a aplaudir ele, tendo até batizado a manobra com o nome dele, e com isso ele consegue derrubar alguns eucaliptos (agora não é liberdade poética, ele realmente falou isso)
 estes equipamentos novos
 Depois, muitos o acompanham, até porque já haviam finalizado o seu almoço e estava na hora de voltar ao trabalho.
 
