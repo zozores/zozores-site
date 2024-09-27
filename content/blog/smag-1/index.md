@@ -10,6 +10,7 @@ tags = ["humor", "causo", "analista", "mestre", "trabalho", "escritório", "TI"]
 giscus = false
 quick_navigation_buttons = true
 toc = true
+social_media_card = "social_card_pt.png"
 +++
 ## Preâmbulo
 
