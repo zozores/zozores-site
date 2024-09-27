@@ -10,7 +10,7 @@ tags = ["humor", "story", "analyst", "master", "work", "office", "IT"]
 giscus = false
 quick_navigation_buttons = true
 toc = true
-social_media_card = "social_card_en.png"
+social_media_card = "social_cards/social_card_en.png"
 +++
 ## Preamble
 
