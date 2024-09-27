@@ -73,7 +73,6 @@ socials = [
 footer_menu = [
     {url = "about", name = "about", trailing_slash = true},
     {url = "privacy", name = "privacy", trailing_slash = true},
-    {url = "https://zozores.goatcounter.com", name = "site_statistics", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
 ]
 allowed_domains = [
