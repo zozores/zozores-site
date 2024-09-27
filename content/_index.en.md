@@ -10,6 +10,6 @@ max_posts = 4
 +++
 Welcome to my 9999th attempt to have a place to publish my texts. This is called ~~lazyness to maintain a website~~ resilience!<br/>
 
-Here you will find ~~recipes on how to make a Pan Galactic Gargle Blaster~~ notes, articles and randomly organized musings about Free and Open Source Software, Information Technology and Computer Science, Life, the Universe and Everything.<br/>
+Here you will find ~~recipes on how to make a Pan-Galactic Blaster~~ randomly organized notes, articles and ramblings about Free and Open Source Software, Information Technology and Computer Science, Life, the Universe and Everything.<br/>
 
 <mark>The opinions expressed here are my own and are not linked to any institution</mark>
