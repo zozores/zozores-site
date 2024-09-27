@@ -86,8 +86,9 @@ allowed_domains = [
 ]
 
 [extra.analytics]
-service = "goatcounter"
-id = "zozores"
+service = "umami"
+self_hosted_url = "https://stats.zozor.es"
+id = "5b8de95d-a003-44f0-805e-3b6925053a03"
 
 [extra.giscus]
 enabled_for_all_posts = false
